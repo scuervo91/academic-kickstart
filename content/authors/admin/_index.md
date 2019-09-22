@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Santiago Cuervo
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,40 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MEng. Petroleum Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: []
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Reservoir Engineering
 
 interests:
+- Reservoir Engineering
+- Reservoir Simulation
+- Geoscience
+- Petrophysics
+- Geomechanics
 - Artificial Intelligence
-- Computational Linguistics
+- Programing languages
 - Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Petroleum Engineering
+    institution: Universidad de Los Andes, Bogotá, Colombia
+    year: 2019
+  - course: BEng in Petroleum Engineering
+    institution: Universidad de América, Bogotá, Colombia
+    year: 2014
+  - course: Machine Learning
+    institution: Stanford University - Coursera Online
+    year: 2018
+  - course: Reservoir Geomechanics
+    institution: Stanford University - Lagunita Online
+    year: 2017  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,25 +52,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:scuervo91@gmail.com  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/scuervo91
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+M.Eng. in Petroleum Engineering with +4 years of experience on integrated Reservoir Engineering, focused on the realization of optimal development plans of primary and secondary Oil & Gas reserves, applying transversal knowledge of geoscience, reservoir-well-surface, economic and risk. Great interest in the development of work tools through numerical programming languages (Spreadsheets, Octave and Julia).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Knowledge in reservoir simulation for enhanced oil recovery applications such as water and steam injection. Comprehensive experience Reservoir-well-surface models nodal analysis and performance evaluation of artificial lift systems (ESP, UBH, PCP, UBM). Petrophysical characterization and quantification of reserves by volumetric methods, declination curves and material balance. Evaluation of exploration prospects with geological knowledge.
+
+Knowledge in the implementation of artificial intelligence algorithms. Able to build dynamic optimization models including deterministic and stochastic models for decision making and risk analysis. Good understanding of physical, mathematical and financial models for the economic evaluation of projects. Understanding the English foreign language and abilities to work in a multidisciplinary team
